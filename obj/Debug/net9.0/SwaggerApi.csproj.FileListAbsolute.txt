@@ -33,3 +33,4 @@
 /Users/pedro/Documents/Main/MainBackend/SwaggerApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/pedro/Documents/Main/MainBackend/SwaggerApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/pedro/Documents/Main/MainBackend/SwaggerApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pedro/Documents/Main/MainBackend/SwaggerApi/obj/Debug/net9.0/SwaggerApi.sourcelink.json
